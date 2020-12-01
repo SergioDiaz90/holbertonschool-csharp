@@ -1,0 +1,11 @@
+/home/sergio/Escritorio/repositories/holbertonschool-csharp/0x00-csharp-hello_world/5-print_float/bin/Debug/netcoreapp2.1/5-print_float.deps.json
+/home/sergio/Escritorio/repositories/holbertonschool-csharp/0x00-csharp-hello_world/5-print_float/bin/Debug/netcoreapp2.1/5-print_float.runtimeconfig.json
+/home/sergio/Escritorio/repositories/holbertonschool-csharp/0x00-csharp-hello_world/5-print_float/bin/Debug/netcoreapp2.1/5-print_float.runtimeconfig.dev.json
+/home/sergio/Escritorio/repositories/holbertonschool-csharp/0x00-csharp-hello_world/5-print_float/bin/Debug/netcoreapp2.1/5-print_float.dll
+/home/sergio/Escritorio/repositories/holbertonschool-csharp/0x00-csharp-hello_world/5-print_float/bin/Debug/netcoreapp2.1/5-print_float.pdb
+/home/sergio/Escritorio/repositories/holbertonschool-csharp/0x00-csharp-hello_world/5-print_float/obj/Debug/netcoreapp2.1/5-print_float.csprojAssemblyReference.cache
+/home/sergio/Escritorio/repositories/holbertonschool-csharp/0x00-csharp-hello_world/5-print_float/obj/Debug/netcoreapp2.1/5-print_float.csproj.CoreCompileInputs.cache
+/home/sergio/Escritorio/repositories/holbertonschool-csharp/0x00-csharp-hello_world/5-print_float/obj/Debug/netcoreapp2.1/5-print_float.AssemblyInfoInputs.cache
+/home/sergio/Escritorio/repositories/holbertonschool-csharp/0x00-csharp-hello_world/5-print_float/obj/Debug/netcoreapp2.1/5-print_float.AssemblyInfo.cs
+/home/sergio/Escritorio/repositories/holbertonschool-csharp/0x00-csharp-hello_world/5-print_float/obj/Debug/netcoreapp2.1/5-print_float.dll
+/home/sergio/Escritorio/repositories/holbertonschool-csharp/0x00-csharp-hello_world/5-print_float/obj/Debug/netcoreapp2.1/5-print_float.pdb
