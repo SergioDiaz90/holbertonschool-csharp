@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/sergio/Escritorio/repositories/holbertonschool-csharp/0x00-csharp-hello_world/10-copy_cut_paste/0-copy_cut_paste.csproj",
-      "projectName": "0-copy_cut_paste",
-      "projectPath": "/home/sergio/Escritorio/repositories/holbertonschool-csharp/0x00-csharp-hello_world/10-copy_cut_paste/0-copy_cut_paste.csproj",
+      "projectUniqueName": "/home/sergio/Escritorio/repositories/holbertonschool-csharp/0x00-csharp-hello_world/10-copy_cut_paste/10-copy_cut_paste.csproj",
+      "projectName": "10-copy_cut_paste",
+      "projectPath": "/home/sergio/Escritorio/repositories/holbertonschool-csharp/0x00-csharp-hello_world/10-copy_cut_paste/10-copy_cut_paste.csproj",
       "packagesPath": "/home/sergio/.nuget/packages/",
       "outputPath": "/home/sergio/Escritorio/repositories/holbertonschool-csharp/0x00-csharp-hello_world/10-copy_cut_paste/obj/",
       "projectStyle": "PackageReference",
